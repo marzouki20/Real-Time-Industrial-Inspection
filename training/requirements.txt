@@ -1,0 +1,4 @@
+# TensorFlow 2.10.1 is the last native Windows release.
+# It requires Python 3.7-3.10 and NumPy <1.24.
+tensorflow==2.10.1
+numpy>=1.23,<1.24
